@@ -17,7 +17,10 @@ Expense Tracker is a simple and functional web application built with HTML, CSS,
 
 **Installation Clone the Repository**:
 ```
-git clone https://github.com/yourusername/Expense-Tracker.git  
+git clone https://github.com/yourusername/Expense-Tracker.git
+```
+**Navigate to the project directory**
+```
 cd Expense-Tracker
 ```
 **Open in Browser simply open the index.html file in your browser to start using the app.**
