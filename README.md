@@ -50,7 +50,7 @@ Remove expenses as needed to keep your records clean and organized.
 
 
 
-**Contributing**:
+## Contributing:
 Contributions are welcome! If you'd like to improve this project, follow these steps:
 
 **Fork the repository.**
@@ -67,5 +67,5 @@ git commit -m "Description of changes"
 git push origin branch-name
 ```
 
-**Acknowledgments**:
+## Acknowledgments:
 This project was inspired by the need for simple, accessible tools to manage personal finances effectively.
