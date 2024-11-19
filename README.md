@@ -63,6 +63,9 @@ git checkout -b feature-name
 git commit -m "Description of changes"
 ```
 **Push your changes and create a pull request.**
+```
+git push origin branch-name
+```
 
 **Acknowledgments**:
 This project was inspired by the need for simple, accessible tools to manage personal finances effectively.
