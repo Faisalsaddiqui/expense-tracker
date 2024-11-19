@@ -32,7 +32,9 @@ Remove expenses as needed to keep your records clean and organized.
 **Technologies Used**:
 
 **HTML:** Structure of the web application.
+
 **CSS:** Styling for a visually appealing interface.
+
 **JavaScript:** Core functionality for adding, removing, and calculating expenses.
 **Project Structure** 
 ```
