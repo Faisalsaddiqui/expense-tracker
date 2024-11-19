@@ -65,5 +65,5 @@ Push your changes and create a pull request.
 License
 This project is open-source and available under the MIT License.
 
-**Acknowledgments**
+**Acknowledgments**:
 This project was inspired by the need for simple, accessible tools to manage personal finances effectively.
