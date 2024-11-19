@@ -23,7 +23,7 @@ Navigate to the project directory:
 ```
 cd Expense-Tracker
 ```
-**Open in Browser simply open the index.html file in your browser to start using the app.**
+Open in Browser simply open the index.html file in your browser to start using the app.
 
 ## Usage:
 
