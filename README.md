@@ -5,24 +5,22 @@ Expense Tracker is a simple and functional web application built with HTML, CSS,
 
 **Features**:
 
-Add Expenses: Easily input your expenses with a description, category, and amount.
+**Add Expenses:** Easily input your expenses with a description, category, and amount.
 
-Remove Expenses: Delete unnecessary or outdated expense entries.
+**Remove Expenses:** Delete unnecessary or outdated expense entries.
 
-Real-Time Updates: See your total spending and remaining budget instantly.
+**Real-Time Updates:** See your total spending and remaining budget instantly.
 
-User-Friendly Interface: Simple and intuitive design for seamless navigation.
+**User-Friendly Interface:** Simple and intuitive design for seamless navigation.
 
-Lightweight & Fast: Built with minimal dependencies for smooth performance.
+**Lightweight & Fast:** Built with minimal dependencies for smooth performance.
 
 **Installation Clone the Repository**:
-
-bash
-Copy code
+```
 git clone https://github.com/yourusername/Expense-Tracker.git  
-cd Expense-Tracker  
-Open in Browser
-Simply open the index.html file in your browser to start using the app.
+cd Expense-Tracker
+```
+**Open in Browser simply open the index.html file in your browser to start using the app.**
 
 **Usage**:
 
@@ -33,19 +31,17 @@ Remove expenses as needed to keep your records clean and organized.
 
 **Technologies Used**:
 
-HTML: Structure of the web application.
-CSS: Styling for a visually appealing interface.
-JavaScript: Core functionality for adding, removing, and calculating expenses.
-Project Structure
-graphql
-Copy code
-Expense-Tracker/  
-
+**HTML:** Structure of the web application.
+**CSS:** Styling for a visually appealing interface.
+**JavaScript:** Core functionality for adding, removing, and calculating expenses.
+**Project Structure** 
+```
 │  
 ├── index.html       # Main HTML file  
 ├── styles.css       # CSS styles  
 ├── script.js        # JavaScript functionality  
-├── README.md        # Project documentation  
+├── README.md        # Project documentation
+```
 
 
 
@@ -54,15 +50,15 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 
 **Fork the repository.**
 Create a new branch for your feature or fix.
-bash
-Copy code
-git checkout -b feature-name  
+```
+git checkout -b feature-name
+```
 **Commit your changes.**
-bash
-Copy code
-git commit -m "Description of changes"  
+```
+git commit -m "Description of changes"
+```
 Push your changes and create a pull request.
-License
+**License:**
 This project is open-source and available under the MIT License.
 
 **Acknowledgments**:
