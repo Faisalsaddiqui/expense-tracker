@@ -50,12 +50,12 @@ Expense-Tracker/
 **Contributing**:
 Contributions are welcome! If you'd like to improve this project, follow these steps:
 
-Fork the repository.
+**Fork the repository.**
 Create a new branch for your feature or fix.
 bash
 Copy code
 git checkout -b feature-name  
-Commit your changes.
+**Commit your changes.**
 bash
 Copy code
 git commit -m "Description of changes"  
