@@ -1,4 +1,4 @@
-# Expense-Tracker 💰 📊 📋
+# Expense-Tracker 💰📊📋
 **Overview**:
 
 Expense Tracker is a simple and functional web application built with HTML, CSS, and JavaScript. It is designed to help you track your expenses, manage your budget, and gain better control over your spending. With features to add, remove, and review your expenses, this tool is perfect for anyone looking to develop better financial habits.
