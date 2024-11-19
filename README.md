@@ -1,8 +1,8 @@
 # Expense-Tracker
-Overview
+**Overview**
 Expense Tracker is a simple and functional web application built with HTML, CSS, and JavaScript. It is designed to help you track your expenses, manage your budget, and gain better control over your spending. With features to add, remove, and review your expenses, this tool is perfect for anyone looking to develop better financial habits.
 
-Features
+**Features**
 Add Expenses: Easily input your expenses with a description, category, and amount.
 Remove Expenses: Delete unnecessary or outdated expense entries.
 Real-Time Updates: See your total spending and remaining budget instantly.
