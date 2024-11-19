@@ -14,8 +14,8 @@ Real-Time Updates: See your total spending and remaining budget instantly.
 User-Friendly Interface: Simple and intuitive design for seamless navigation.
 
 Lightweight & Fast: Built with minimal dependencies for smooth performance.
-Installation
-Clone the Repository
+
+**Installation Clone the Repository**:
 
 bash
 Copy code
