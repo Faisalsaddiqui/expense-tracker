@@ -40,11 +40,13 @@ Project Structure
 graphql
 Copy code
 Expense-Tracker/  
+
 │  
 ├── index.html       # Main HTML file  
 ├── styles.css       # CSS styles  
 ├── script.js        # JavaScript functionality  
 ├── README.md        # Project documentation  
+
 
 
 **Contributing**:
