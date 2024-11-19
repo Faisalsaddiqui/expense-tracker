@@ -25,11 +25,14 @@ Open in Browser
 Simply open the index.html file in your browser to start using the app.
 
 **Usage**
+
 Launch the application by opening index.html.
 Add your expenses by entering a description, category, and amount.
 Review your expense list and check your total spending.
 Remove expenses as needed to keep your records clean and organized.
+
 **Technologies Used**
+
 HTML: Structure of the web application.
 CSS: Styling for a visually appealing interface.
 JavaScript: Core functionality for adding, removing, and calculating expenses.
