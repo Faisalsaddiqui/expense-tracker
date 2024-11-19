@@ -6,9 +6,13 @@ Expense Tracker is a simple and functional web application built with HTML, CSS,
 **Features**
 
 Add Expenses: Easily input your expenses with a description, category, and amount.
+
 Remove Expenses: Delete unnecessary or outdated expense entries.
+
 Real-Time Updates: See your total spending and remaining budget instantly.
+
 User-Friendly Interface: Simple and intuitive design for seamless navigation.
+
 Lightweight & Fast: Built with minimal dependencies for smooth performance.
 Installation
 Clone the Repository
