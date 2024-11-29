@@ -53,16 +53,16 @@ Remove expenses as needed to keep your records clean and organized.
 ## Contributing:
 Contributions are welcome! If you'd like to improve this project, follow these steps:
 
-**Fork the repository.**
+**Fork the repository**
 Create a new branch for your feature or fix.
 ```
 git checkout -b feature-name
 ```
-**Commit your changes.**
+**Commit your changes**
 ```
 git commit -m "Description of changes"
 ```
-**Push your changes and create a pull request.**
+**Push your changes and create a pull request**
 ```
 git push origin branch-name
 ```
