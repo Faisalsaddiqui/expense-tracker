@@ -16,7 +16,7 @@ Expense Tracker is a simple and functional web application built with HTML, CSS,
 - **Lightweight & Fast:** Built with minimal dependencies for smooth performance.
 ## How to run:
 
-**Installation Clone the Repository**
+**Clone the Repository**
 ```
 git clone https://github.com/yourusername/Expense-Tracker.git
 ```
