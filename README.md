@@ -52,7 +52,7 @@ Remove expenses as needed to keep your records clean and organized.
 
 
 ## Contributing:
-Contributions are welcome! If you'd like to improve this project, follow these steps:
+**Contributions are welcome! If you'd like to improve this project, follow these steps:**
 
 Fork the repository and create a new branch for your feature or fix
 ```
